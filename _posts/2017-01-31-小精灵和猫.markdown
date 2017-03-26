@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Fairy Tale in the Woods"
+date:   2017-01-31 09:11:03
+description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
+thumbnail: fairytale-cover.jpg
+categories: category1
+
+# Information for the author block
+author: Nina Petropoulos
+---
+
+
+当我想到关于小精灵和猫的故事，我希望把故事讲的尽可能完整。从小精灵的伙伴们（不同的植物的精灵有着不同的性格和能力），到精灵们居住的地方，接受的教育。这些最后都会影响小精灵和猫之间故事。
+ 
+ ![TEST](/assets/img/fairytale/fairytale-main.jpg)
+ 
+ [enim ad minim][link1] 
+
+[link1]: example.net
+

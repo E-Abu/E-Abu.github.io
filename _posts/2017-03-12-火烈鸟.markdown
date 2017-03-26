@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "我的大火烈鸟朋友"
+date:   2016-09-12 09:11:03
+description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
+thumbnail: flamingo-cover.jpg
+categories: category1
+
+# Information for the author block
+author: Nina Petropoulos
+---
+据我奶奶说，我从小就喜欢火烈鸟。在从小一年一度的动物园之行中，我总是对这种红色的大鸟抱着敬畏又欣赏的心情，粉橘红的高贵美丽羽毛，单腿站立的独特姿态，颈部的曲线，巨大的喙的精神的黑，群居浩浩荡荡的来去。
+
+![TEST](/assets/img/flamingo/flamingo.jpg)
+
+![TEST](/assets/img/flamingo/flamingo2.jpg)
+
+![TEST](/assets/img/flamingo/flamingo3.jpg)
+
+
+
+
