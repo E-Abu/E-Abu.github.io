@@ -25,15 +25,14 @@ title: Home
 <div class='divider xs-12 grow'></div>
 
 <div class='flexbox'>
-{% for post in site.posts limit:2 offset:3 %}
   <div class="sm-6 textPreview vertCenter grow short">
     <div>
-      <a class='caps post-title' href='{{ post.url }}'>{{ post.title }}</a>
-      <p>{{ post.excerpt }}</p>
-      <p class='meta'>{{ post.date | date_to_long_string }} / by {{ post.author }}</p>
+	<a href="{{ site.url }}/about.html">关于作者</a>
+      <p>因为对造世界感兴趣，在2016年开始接触概念设计，正在努力学习中。
+
+</p>
     </div>
   </div>
-{% endfor %}
 </div>
 
 <div class='flexbox wrap'>

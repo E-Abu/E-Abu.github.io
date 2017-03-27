@@ -4,23 +4,23 @@ title:  "迷雾中的巫术——南域"
 date:   2017-01-02 09:11:03
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
 thumbnail: nanyu-cover.jpg
-categories: category1
-author: Miao
+categories: gai_nian_she_ji
 
 ####### Information for the author block
-author: Nina Petropoulos
+author: 胡迪
 ---
 这次我希望给这个中国风的故事加上一些怪异的色彩，边界的地方是造就神秘的，南方丰富潮湿的空气造就巫、妖、仙，不同于常人。我相信怪异的事件和人物是一把钥匙，打开不同于大多数人认可的一套逻辑。
 
-![TEST](/assets/img/nanyu/nanyu-witch.jpg)
+<a href="/assets/img/nanyu/nanyu-witch.jpg">![TEST](/assets/img/nanyu/nanyu-witch.jpg)</a>
+
 
 >女巫来自于纳西族“署”的传说，“署”是像蛇一样的神灵，代表着自然界的一切，南域敬蛇自此而起。女巫是联系人和神的人，言即咒，舞即巫。村民敬畏她，甚至有人分不清“巫”与“神”。女巫永远独自生活。
 
-![TEST](/assets/img/nanyu/nanyu-sword.jpg)
+<a href="/assets/img/nanyu/nanyu-sword.jpg">![TEST](/assets/img/nanyu/nanyu-sword.jpg)</a>
 
 >剑仙本为农人之子，心智既坚，一往无前，因剑悟道，终得仙人之境。剑仙，面冷心热大公无私，被村民爱重。收留不为村民所容的狐半妖，照拂他像对待幼弟。
 
-![TEST](/assets/img/nanyu/nanyu-fox.jpg)
+<a href="/assets/img/nanyu/nanyu-fox.jpg">![TEST](/assets/img/nanyu/nanyu-fox.jpg)</a>
 
 >狐半妖是人和狐妖的后代，狐妖修炼千年化身为人，与人类相爱诞子，而幼子由于修炼的时间尚短不能幻化人相，作半人半狐的样子示人。由于样貌怪异，狐半妖自幼受村民冷落，虽然天赋异禀寿命悠长然而成年后玩世不恭。幸为剑仙收留。
 
