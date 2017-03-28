@@ -28,7 +28,7 @@ author: 胡迪
 <img class='social-media' src='{{ site.url }}/assets/img/icons/twitter.svg'>
 <img class='social-media' src='{{ site.url }}/assets/img/icons/behance.svg'>
 <img class='social-media' src='{{ site.url }}/assets/img/icons/facebook.svg'>
-<img class='social-media' src='{{ site.url }}/assets/img/icons/Github.svg'>
-<img class='social-media' src='{{ site.url }}/assets/img/icons/Google-Plus.svg'>
+<img class='social-media' src='{{ site.url }}/assets/img/icons/github.svg'>
+<img class='social-media' src='{{ site.url }}/assets/img/icons/google-plus.svg'>
 <img class='social-media' src='{{ site.url }}/assets/img/icons/youtube.svg'>
 </div>
