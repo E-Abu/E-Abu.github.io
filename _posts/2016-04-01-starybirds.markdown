@@ -5,7 +5,7 @@ date:   2016-04-01 09:11:03
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
 thumbnail: starybirds-cover.jpg
 categories: cha_hua
-score: 0
+score: 1
 
 # Information for the author block
 author: 胡迪
