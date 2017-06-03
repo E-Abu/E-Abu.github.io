@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "迷雾中的巫术——南域"
-date:   2017-03-02 09:11:03
+date:   2017-01-02 09:11:03
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
 thumbnail: nanyu-cover.jpg
 categories: gai_nian_she_ji
-
+score: 75
 ####### Information for the author block
 author: 胡迪
 ---

@@ -3,7 +3,7 @@ layout: post
 title:  "关于我"
 date:   2017-03-20 09:11:03
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
-thumbnail: interduction.jpg
+thumbnail: self-cover.jpg
 categories: category1
 
 # Information for the author block
