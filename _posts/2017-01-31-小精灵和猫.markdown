@@ -5,14 +5,20 @@ date:   2017-01-31 09:11:03
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
 thumbnail: fairytale-cover.jpg
 categories: gai_nian_she_ji
-score: 85
+score: 83
 
 # Information for the author block
 author: 胡迪
 ---
 
+_ _ _ 
+<small>
+当我想到关于小精灵和猫的故事，我希望把故事讲的尽可能完整。从小精灵的伙伴们（不同的植物的精灵有着不同的性格和能力），到精灵们居住的地方，接受的教育，最后都会影响小精灵和猫之间故事。我编织了一个与恐惧和解的故事，在故事中构造世界。
+</small>
 
-当我想到关于小精灵和猫的故事，我希望把故事讲的尽可能完整。从小精灵的伙伴们（不同的植物的精灵有着不同的性格和能力），到精灵们居住的地方，接受的教育，最后都会影响小精灵和猫之间故事。
+_ _ _
+
+森林深处的精灵已经延续了不知道多长的时间，大概是从有树以来，他们就和树一起生活了。对于精灵来说，各种植物都是他们的亲人，但是动物嘛却不太好交流，尤其是可怕的大型猫科动物，它们都是猛兽……
  
 <a href="/assets/img/fairytale/fairytale-main.jpg">![TEST](/assets/img/fairytale/fairytale-main.jpg){: .big}</a>
 

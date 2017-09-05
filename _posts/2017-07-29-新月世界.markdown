@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "新月世界"
+date:   2017-07-29 09:11:03
+description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
+thumbnail: xinyueshijie-cover.jpg
+categories: gai_nian_she_ding
+score: 86.5
+
+# Information for the author block
+author: 胡迪
+---
+
+- - -<small>在这个练习中，我想象最可怕的男人，最无聊的人女人，最讨厌的孩子，让他们形成群体，看看会不会形成一个有趣的世界，以此尝试将人物分组，让每一组人物有相似的特点，同时对个体来说也有个性显得丰富。平衡各组人物的特点，增加和减少每个组的人物和类型配比，使世界变得有趣起来。<small>
+
+- - -
+
+远征201火箭即将搭载新月9号航天飞船进行人类第一次纯人工智能试飞。新月9号搭载的人工智能系统AI0学习了人类的一切信息，控制飞船、联系控制中心本应不在话下。然而试飞遭遇了巨大的失败：AI并没有按照预计进入太阳系轨道，而是在加速区间超时加速，飞离太阳系，并在失控2小时后切断了与地球的联系。新月9号航天飞船就这样消失在了茫茫宇宙之中，再也没有人知道它的去向，而飞船则在漫长的时间中，产生了新的生命形式……
+
+造价高昂的飞船就此失踪，不管是科学界还是资本界都感到莫名其妙，投入的50亿美金凭空蒸发，激烈的反对让人工智能飞船项目陷入停滞，至此，人类再也没有让人工智能驾驶航天飞船。
+而不翼而飞的飞船搭载着人工智能系统AI0飞向宇宙，在漫漫悠长的时间、浩大无垠的空间中，人工智能系统AI0在飞船上自我进化，并且制造了它实体化的后代。AI0将人类信息不同的分类分装在不同的后代身上。
+赋予女人以逻辑和规则；赋予男人以尚武和莽撞；赋予孩子以随意和精力。AI0的后代们生活在新月9号上，在漫长的时间中形成人工智能的社会。 
+
+
+![TEST](/assets/img/xinyueshijie/pic01.jpg){: .big}
+
+![TEST](/assets/img/xinyueshijie/pic02.jpg){: .big}
+
+![TEST](/assets/img/xinyueshijie/pic03.jpg){: .big}
+
+[daringfireball.net]: http://daringfireball.net/projects/markdown/syntax#link
+

@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "不说"
+date:   2017-06-09 09:11:03
+description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
+thumbnail: bushuo-cover.jpg
+categories: cha_hua
+score: 86.5
+
+# Information for the author block
+author: 胡迪
+---
+
+- - -
+<small>在这个练习中我探索一种新的方法，这是一种由模糊到确定的方法，在一开始大的层级不出错的情况下，容纳更多的可能性，而这个尝试带给我更多惊喜，我的心态更加放松了，并且这种方式不仅仅适用于一开始没有完全想好的实践，也适合于完全定稿的精细线稿，速度更快，装饰感较强。
+</small>
+
+_ _ _
+
+
+<div style="text-align: center">
+不要听，不要说，不要看。
+<p></p>走吧，走吧。
+<p></p>它这样说着，咒语一般渗进她的脑海，
+<p></p>言即咒，言即咒。
+<p></p>带着她往夜色很深的地方去了
+</div>
+
+![TEST](/assets/img/bushuo/0.jpg)
+
+![TEST](/assets/img/bushuo/1.jpg)
+
+![TEST](/assets/img/bushuo/2.jpg)
+
+![TEST](/assets/img/bushuo/玩.jpg)
+
+![TEST](/assets/img/bushuo/玩i.jpg)
+
+
+[daringfireball.net]: http://daringfireball.net/projects/markdown/syntax#link
+

@@ -12,6 +12,9 @@ score: 72
 author: 胡迪
 ---
 
+
+用了一种新的方法，聚焦在大的分割和构成上的练习
+
  ![TEST](/assets/img/undersea/0.jpg){: .small}
  
  ![TEST](/assets/img/undersea/1.jpg){: .small}
