@@ -5,7 +5,7 @@ date:   2017-07-29 09:11:03
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
 thumbnail: xinyueshijie-cover.jpg
 categories: gai_nian_she_ding
-score: 86.5
+score: 87
 
 # Information for the author block
 author: 胡迪
