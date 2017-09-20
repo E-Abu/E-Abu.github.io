@@ -24,6 +24,8 @@ author: 胡迪
 
 ![TEST](/assets/img/xinyueshijie/pic01.jpg){: .big}
 
+![TEST](/assets/img/xinyueshijie/pic00.jpg){: .big}
+
 ![TEST](/assets/img/xinyueshijie/pic02.jpg){: .big}
 
 ![TEST](/assets/img/xinyueshijie/pic03.jpg){: .big}
