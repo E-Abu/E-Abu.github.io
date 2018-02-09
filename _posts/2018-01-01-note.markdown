@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "2017总结帖"
+date:   2010-12-01 09:11:03
+description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
+thumbnail: 2017-cover.jpg
+categories: category2
+score: 100
+
+# Information for the author block
+author: hudi
+---
+
+
+![TEST](/assets/img/2017/2.jpg){: .big}
+![TEST](/assets/img/2017/3.jpg){: .big}
+![TEST](/assets/img/2017/4.jpg){: .big}
+![TEST](/assets/img/2017/5.jpg){: .big}
+![TEST](/assets/img/2017/6.jpg){: .big}
+![TEST](/assets/img/2017/7.jpg){: .big}
+![TEST](/assets/img/2017/8.jpg){: .big}
+![TEST](/assets/img/2017/9.jpg){: .big}
+![TEST](/assets/img/2017/10.jpg){: .big}
+![TEST](/assets/img/2017/11.jpg){: .big}
+![TEST](/assets/img/2017/12.jpg){: .big}
+![TEST](/assets/img/2017/13.jpg){: .big}
+![TEST](/assets/img/2017/14.jpg){: .big}
+![TEST](/assets/img/2017/15.jpg){: .big}
+![TEST](/assets/img/2017/16.jpg){: .big}
+![TEST](/assets/img/2017/17.jpg){: .big}
+![TEST](/assets/img/2017/18.jpg){: .big}
+![TEST](/assets/img/2017/19.jpg){: .big}
+![TEST](/assets/img/2017/20.jpg){: .big}
+![TEST](/assets/img/2017/21.jpg){: .big}
+![TEST](/assets/img/2017/22.jpg){: .big}
+![TEST](/assets/img/2017/23.jpg){: .big}
+![TEST](/assets/img/2017/24.jpg){: .big}

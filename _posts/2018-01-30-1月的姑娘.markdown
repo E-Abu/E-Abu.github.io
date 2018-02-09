@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Ladies January"
+date:   2010-12-01 09:11:03
+description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
+thumbnail: ladysJ-cover.jpg
+categories: category2
+score: 90
+
+# Information for the author block
+author: Nina Petropoulos
+---
+![TEST](/assets/img/ladys/1.jpg)
+![TEST](/assets/img/ladys/2.jpg)
+![TEST](/assets/img/ladys/3.jpg)
